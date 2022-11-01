@@ -9,7 +9,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Connect from './components/connect';
 import Navbar from './components/Navbar/index.js';
 import Home from './components/Home.js';
-import Profile from './components/profile';
+import Profile from './components/Profile/Profile'
 import NewNavbar from './components/NewNavbar';
 
 
