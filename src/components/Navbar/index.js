@@ -22,6 +22,9 @@ const Navbar = () => {
           <Link to='/profile' activeStyle>
             Profile
           </Link>
+          <Link to='/register' activeStyle>
+            Register
+          </Link>
           <Link to='/' activeStyle>
             Home
           </Link>
